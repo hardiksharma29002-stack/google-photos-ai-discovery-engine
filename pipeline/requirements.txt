@@ -1,0 +1,7 @@
+google-api-python-client
+google-genai
+groq
+python-dotenv
+praw
+google-play-scraper
+playwright

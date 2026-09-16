@@ -1,0 +1,32 @@
+# Environment variables & secrets
+.env
+.env*.local
+*.env
+/ui/.env*
+
+# Node & Next.js build artifacts
+node_modules/
+/ui/node_modules/
+.next/
+/ui/.next/
+/ui/out/
+/ui/build/
+
+# Large raw datasets & checkpoints (keep repository light)
+data/raw/
+data/processed/
+data/extracted/
+data/checkpoints/
+
+# Python caches
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Scratch & temporary logs
+scratch/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
