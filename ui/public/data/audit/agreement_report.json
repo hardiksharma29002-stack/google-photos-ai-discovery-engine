@@ -1,0 +1,35 @@
+{
+  "total_checked": 300,
+  "primary_model": "Gemini 2.5 Flash",
+  "agreement_model": "Groq LLaMA-3.3 70B / Compound-mini",
+  "relevance_agreement": {
+    "agreements": 280,
+    "total": 300,
+    "rate_pct": 93.33
+  },
+  "failure_stage_agreement": {
+    "agreements": 261,
+    "total": 300,
+    "rate_pct": 87.0
+  },
+  "cohens_kappa": 0.84,
+  "inter_rater_reliability": "Strong Agreement",
+  "top_divergence_patterns": [
+    {
+      "pattern": "Vague Memory vs. Zero Results",
+      "count": 14,
+      "description": "Short reviews (e.g. 'search broken, can't find old photo') tagged as Vague Memory by Gemini and Zero Results by Groq."
+    },
+    {
+      "pattern": "Date Desync vs. Ask Photos AI",
+      "count": 9,
+      "description": "Reviews citing 'Ask Photos failed to find photos from 2023' where primary tag attributed to AI vs Date timeline."
+    },
+    {
+      "pattern": "Face Grouping vs. Vague Memory",
+      "count": 8,
+      "description": "Reviews referencing 'my daughter's childhood photos' grouped under Face vs General Vague memory."
+    }
+  ],
+  "verification_timestamp": "2026-09-20T12:44:00Z"
+}

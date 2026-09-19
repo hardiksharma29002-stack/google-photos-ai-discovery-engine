@@ -1,0 +1,14 @@
+{
+  "sample_size": 100,
+  "core_items": 70,
+  "rejected_items": 30,
+  "precision_pct": 92.0,
+  "estimated_recall_pct": 89.4,
+  "f1_score_pct": 90.7,
+  "true_positives": 65,
+  "false_positives": 5,
+  "true_negatives": 27,
+  "false_negatives": 3,
+  "audit_date": "2026-09-20",
+  "methodology": "Stratified random sampling across 4,615 core retrieval cases and 35k prefiltered rejections."
+}
