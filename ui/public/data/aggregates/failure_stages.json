@@ -1,0 +1,16 @@
+{
+  "Vague Memory & Natural Language Breakdown": 1197,
+  "Date & Timeline Desynchronization (Wrong Year/Date)": 829,
+  "Face Recognition & Pet Grouping Errors": 634,
+  "Document, Receipt & Text (OCR) Inaccuracies": 309,
+  "Ask Photos / Gemini AI Regressions": 276,
+  "Hidden & Archived Folder Search Blindness": 272,
+  "Search Retrieval Failure (Zero Results Found)": 235,
+  "Album vs. Main Library Disconnection": 227,
+  "Search Query Visual Clutter (Irrelevant Memes & Noise)": 198,
+  "Inability to Refine / Multi-Condition Queries": 195,
+  "Video Content & In-Video Action Search": 173,
+  "Missing Location & Geotag Failures": 54,
+  "Offline / Flight Mode Search Inaccessibility": 14,
+  "Duplicate & Burst Photo Flooding": 2
+}

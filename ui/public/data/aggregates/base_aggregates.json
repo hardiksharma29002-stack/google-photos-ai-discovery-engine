@@ -1,0 +1,11 @@
+{
+  "total_reviews": 4615,
+  "total_items": 4615,
+  "total_clusters": 14,
+  "unresolved_rate": 0.95,
+  "sources": {
+    "Play Store": 3018,
+    "App Store": 1546,
+    "Google Photos Community": 51
+  }
+}

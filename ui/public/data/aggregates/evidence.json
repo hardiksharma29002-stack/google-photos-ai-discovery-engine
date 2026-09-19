@@ -1,0 +1,822 @@
+{
+  "Hidden & Archived Folder Search Blindness": [
+    {
+      "id": "gplay-7a56b63b",
+      "text": "Serves as a top-tier digital archive and secondary media backup solution.Its facial recognition,contextual search and automated cloud sync options simplify photo management,making image retrieval effortless.",
+      "intent": "Find specific visual memory",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-54ca7461",
+      "text": "locked folder attached to screen lock not to be changed",
+      "intent": "Locate photos in album / folder",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-715c1efe",
+      "text": "my old photo archive",
+      "intent": "Find photos from specific time/year",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-c90c1e7f",
+      "text": "where is tha locked folder",
+      "intent": "Locate photos in album / folder",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-8f96b7ee",
+      "text": "i have an issue regarding my locked folder. whenever I try to move my photo from the locked folder to somewhere else my app started lagging and it's so frustrating.",
+      "intent": "Locate photos in album / folder",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-42d756b0",
+      "text": "I need a my personal photos back on Locked folder please",
+      "intent": "Find specific person / family member",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-e2eee1ae",
+      "text": "locked folder me se photo na to delete ho rhi h na bahr nikl rhi h Or na hi Or photo locked folder me ja rhii hai..",
+      "intent": "Locate photos in album / folder",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-893005bc",
+      "text": "everytime getting issues in moving photos to the locked folder",
+      "intent": "Locate photos in album / folder",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-eb085f34",
+      "text": "Imbecil Archive menu positioned, and where are the archived files/media????",
+      "intent": "Find specific visual memory",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-88f8d13c",
+      "text": "Please add a Trash/recovery option for backed-up Locked Folder photos and videos. Currently, accidentally deleting an item from Locked Folder can permanently delete it even when it is backed up. A 60-day Trash/recovery period, or a clear warning before permanent deletion, would greatly improve data safety. Also, please consider an option to create an independent backup of selected Locked Folder items to another Google Account.",
+      "intent": "Find document / receipt / proof",
+      "source": "Play Store"
+    }
+  ],
+  "Inability to Refine / Multi-Condition Queries": [
+    {
+      "id": "gplay-ac049b01",
+      "text": "While using an Android phone, Google Photos is the best. And I honestly love the little different filters and stickers.",
+      "intent": "Find document / receipt / proof",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-8801432d",
+      "text": "It is reall great for quickly sorting files",
+      "intent": "Find specific visual memory",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-265afd40",
+      "text": "this app is amazing no filters no fakeness if you want to adjust things you can but gives you tons of storage and you never lose any pictures. it is also completely add free",
+      "intent": "Find specific visual memory",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-5df9d71e",
+      "text": "Thank you very much Even if it has to mean Sorting my photos. Filing.",
+      "intent": "Find specific visual memory",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-44bef6af",
+      "text": "for good filters idk what I'm doing with .y lfe",
+      "intent": "Find document / receipt / proof",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-8dcf6703",
+      "text": "Newest UI changed ruined a lot. Still no way to sort the collections page how you want it.",
+      "intent": "Find specific visual memory",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-9ad7cf27",
+      "text": "Options to sort by size.",
+      "intent": "Find specific visual memory",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-73d6e2f5",
+      "text": "Unexpected reminders nudge forward. App default, edited salvage, and instant composition among today, assists monitor needs and collective capture for sort, area, and project.",
+      "intent": "Find specific visual memory",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-19634a69",
+      "text": "Difficult to find and sort and arrange photos.",
+      "intent": "Find specific visual memory",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-78dc6c67",
+      "text": "Will not allow me to access photos. Some kind of optional face sorting pops up that I cannot exit out of.",
+      "intent": "Find specific person / family member",
+      "source": "Play Store"
+    }
+  ],
+  "Album vs. Main Library Disconnection": [
+    {
+      "id": "gplay-7119e47d",
+      "text": "They added search to the Add To Album popup! Someone *is* reading all those feedbacks I send!!! Easy backup of photos and videos. Nice interface for browsing photos and videos.",
+      "intent": "Find specific person / family member",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-fde78196",
+      "text": "Photo to video editor's model Veo2 is way to strict. Blocks 90% of my appropriate photos. Google AI says the filter needs replaced, it's inconsistent and over cautious. GP needs customizable features like choosing main window lay out. Example: Choose to see only Albums, Folders or Collection. Minimal features. It works but hopefully more customizable options will be available soon. Its ok but don't use \"photo to video, it's broken, inconsistent and over cautious. Recommended: Visionstoryai",
+      "intent": "Find document / receipt / proof",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-7566a0f2",
+      "text": "happy with sorting photos into albums & keeping others seperate.",
+      "intent": "Locate photos in album / folder",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-f9e32fd8",
+      "text": "my pictures keep doing album organizing without my request. I want to sort them and SEND them and I can no longer delete and send individual shots !!",
+      "intent": "Find document / receipt / proof",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-9edc2384",
+      "text": "It would be really great if we had an option to see \"unsorted\" photos - photos that are NOT in an album. OR see a label on the photo which states the album it is in (maybe on a toggle). It would also be great if we could choose which albums from our phones auto backup to Google photos!! love google photos, some upgrades would be nice. Or even a tag system where it shows the tag on the photo. Just a way to actually organize photos!! Please.",
+      "intent": "Locate photos in album / folder",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-a4fdb3bf",
+      "text": "Google Photos makes it incredibly hard to organize my library when new photos come in from cloud sync tools like MultCloud. Every single new photo arrives “loose,” and I have to manually sort it into albums all over again when I already did this! Auto‑albums can’t be shared or used by smart frames, so they don’t help. Please give us a simple way to see photos not in any manual album, or a way to auto‑assign albums. This constant manual sorting is exhausting.",
+      "intent": "Find document / receipt / proof",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-c65ffe06",
+      "text": "Google Photos is the most useful app for storing and organizing photos. The automatic backup, easy search, albums, and sharing features make managing memories so convenient. Simple, reliable, and easy to use!",
+      "intent": "Locate photos in album / folder",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-7f7adc54",
+      "text": "Pros: * Photos and videos are backed up securely and automatically. * Smart search helps you find photos of people or places within seconds. * The 'Memories' feature surfaces past special moments. * Sharing albums with others is incredibly easy. * Built-in editing tools allow for quick adjustments. * Photos are synced across all your devices. Cons: * Storage beyond the free 15 GB allowance requires payment. * Some users may have privacy concerns regarding cloud storage regulations.",
+      "intent": "Find specific person / family member",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-6a21857f",
+      "text": "the absolute worst photo album app. invasive AI garbage scanning all your private photos. even with backup turned on, there is no way to view ALL your photos in a single gallery. messages, camera, screenshots are all separate. it's like this app was designed by people who have never used a phone.",
+      "intent": "Find specific screenshot or downloaded image",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-a49fb6b2",
+      "text": "This app is a thorn in my side I have to continuously search for my albums and photos that it's for ever backing up of witch conveniently dissappears never to be found again i don't recommend downloading this app",
+      "intent": "Find document / receipt / proof",
+      "source": "Play Store"
+    }
+  ],
+  "Ask Photos / Gemini AI Regressions": [
+    {
+      "id": "gplay-f96d6624",
+      "text": "sharing photos to Gemini or Signal or other app doesn't work - literally nothing happens. Search is useless - it doesn't come up with anything on first attempt, sometimes never",
+      "intent": "Ask natural language query via Gemini",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-ccf10b64",
+      "text": "it's a perfect photo app it has tons of helpful things for your photos, like Gemini AI, AI editing, folders, collections, collages, and more for your photos!",
+      "intent": "Locate photos in album / folder",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-72415094",
+      "text": "The latest update is horrible. Photos used to have the most amazing AI search. The search in this version is HORRIBLE. You keep becoming more like Apple and iPhone every day",
+      "intent": "Find photos from specific time/year",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-6246df3a",
+      "text": "Google is the best! They have kept all of my pictures for 10 + years. Gemini is also great. without details, I have saved important papers, and taught some important information so I don't erase it. great patient accurate 👍😀",
+      "intent": "Ask natural language query via Gemini",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-83068b41",
+      "text": "Another Google app that's becoming more and more infuriatingly unusable by the day. I love the Gemini app itself and I pay an additional fee for it, but when integrated into other Google Apps such as photos it just plain sucks. 😢 in particular search functions now terrible I can't find any photos of looking for and most of the time the deletion and creation of new photos are impossible to sync up between my iPad and my Google pixel phone. integrating Gemini into so many apps so fast seems to",
+      "intent": "Ask natural language query via Gemini",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-07e68f18",
+      "text": "you guys need to fix it where it recognizes my lizard as a pet. id like to add her as a pet so Gemini knows what she looks like but there isn't a manual way of doing that. please fix this. it's incredibly stupid. CAN WE PLEASE HAVE CONTROL OVER THE PEOPLE AND PETS STUFF!!?? You guys have got to pull your heads out and fix your entire ecosystem of services. Stuff is getting way worse.....",
+      "intent": "Find pet/animal photos",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-352b6cfc",
+      "text": "Hate the update, no longer able to search without using Gemini, which I also hate. Have disabled Gemini, because I couldn't search anything, without it popping up several times, even though I had already said no, and closed it. *Editing to add, since there's no way to reply to your reply. Ask photos also requires Gemini, so that doesn't help at all. Thanks for nothing 👍🏻",
+      "intent": "Find document / receipt / proof",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-15141af6",
+      "text": "The only reason I was using Photos is because of the image search. Now if I don't continue with Gemini I don't get to have a decade old feature? The search results are worse than how it was on my OG Pixel!",
+      "intent": "Find specific person / family member",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-574bd132",
+      "text": "I can no longer search my photos for people, colors, objects or words (etc). trying to ask Gemini doesn't work and just sends me back to the search page which always yeilds no results.",
+      "intent": "Ask natural language query via Gemini",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-145bd05f",
+      "text": "Lacking image search features and Gemini integration.",
+      "intent": "Ask natural language query via Gemini",
+      "source": "Play Store"
+    }
+  ],
+  "Date & Timeline Desynchronization (Wrong Year/Date)": [
+    {
+      "id": "gplay-5a61245d",
+      "text": "I'm a long time, heavy user of Google Photos & an Alphabet stockholder. Until yesterday Photos took <1 second to delete photos. Last night I downloaded the latest update. Now it takes 20 seconds per photo. Will Google ever learn to not screw up something that is working perfectly well, i.e. your Search! IF IT AIN'T BROKEN, DON'T \"FIX\" IT. What is wrong with y'all??",
+      "intent": "Find specific screenshot or downloaded image",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-41f5320c",
+      "text": "Latest update applied (9/17/2026) has corrupted my SD card in my Android phone. All was working fine until the update was installed today. Opening Google Photos caused my SD card images to be resorted, then disappeared, and apparently unmounted the SD card. Both Android & Google Photos want to format the SD card when the \"fix\" prompt is clicked. Avoid the update until the bug is corrected in the next build release.",
+      "intent": "Find document / receipt / proof",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-44b6263b",
+      "text": "This was the gold standard for the better part of a decade but as with all things Google it's been getting worse and worse the last few years, especially as they try to shoehorn more AI into it. Search is somehow worse now, and I don't like that my Google drive just got upgraded to an AI plan without my consent. I'm currently backing everything up to migrate to something else so I can cancel my Google drive subscription.",
+      "intent": "Find photos from specific time/year",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-098737dd",
+      "text": "Google has had issues with properly syncing photos to the app for years and has done absolutely nothing to address it. all photos in albums are out of order regardless of date taken/Metadata in the app, even though desktop has correct order. nothing can be done to force a resort, even some of the online tips that used to work no longer do, as if Google \"fixed\" being able to fix their glitch and is forcing people to have random sort pushed on them hoping to shove people over to Apple devices.",
+      "intent": "Locate photos in album / folder",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-603c1fd8",
+      "text": "Pixel 10. Forced Updates. TEXT/SUBJECT search is FAIL. \"Car Engine\" - have 100s of repair photos But Only 15 Show? Often AI says \"none\"or wonky/useless \"results\" includes ALOT (100s +) irrelevant results. Edited Image cannot be reedited, reverts to original photo😖 Organization is dreadfull. Cannot Sort FOLDERS or PEOPLE by Name, result is a jumbled mess . Many important faces NOT FOUND so edit & Create PEOPLE w/name & App still not autoadded But Fuzzy Background Nobody faces are 🤯",
+      "intent": "Find specific person / family member",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-85c57307",
+      "text": "You can no longer search your photos without turning on Backup. Time for a new App, goodbye Photos. Update: Google Dark Patterns and Prevent Uninstallation. Actually Photos pretends you can uninstall it, but it just hides, uploading all your data to the cloud against your will. I smell a class action lawsuit brewing..",
+      "intent": "Find document / receipt / proof",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-b19219f9",
+      "text": "wht cant you sort the the album like type of file, date, name wise. Appreciate if it is possible",
+      "intent": "Locate photos in album / folder",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-68a07f5c",
+      "text": "Something annoying happened in the recent version! I usually edit pictures and send them to friends. Now, after I edit them, although I see them in the gallery, when I try to choose from FB or Whatsapp - I can't find the edited ones at all! I tried to search in different folders - nothing... Update after the developer's replay: I waited enough time, the photos didn't appear in my gallery till now (after a week!) And even more - I see them in the gallery on my old Pixel 3",
+      "intent": "Find specific person / family member",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-2a7ce0e4",
+      "text": "edit: I fixed the problem, used an apk to download version 7.90! the last update to the UI has made this app unusable. I cant find any of the photos im looking for, things are no longer grouped by date, some photos dont show up at all in the main grid and now i have to dig in collections to find them, theres so many more issues too. the app worked amazingly before this update, I will look into downloading an older version and recommend others do the same or avoid updating if you havent yet",
+      "intent": "Find document / receipt / proof",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-cd17f4cb",
+      "text": "Waste more time trying to dismiss constant nagging to try their AI slop. Why do I pay so much for storage, and then get nagged with some dumb feature nobody wants. Just let me store my photos like I pay for. **After forcing us to use albums instead of folders, search hasn't even worked for years. Want to find a photo or folder with an exact name...doesn't work. It will use useless AI to find a thousand unrelated pictures it thinks are similar instead of the one picture with the exact name.",
+      "intent": "Locate photos in album / folder",
+      "source": "Play Store"
+    }
+  ],
+  "Face Recognition & Pet Grouping Errors": [
+    {
+      "id": "gplay-bc35e562",
+      "text": "Google Photos is one of the most poorly designed apps that I've ever used. The search feature is very inaccurate, and you'll get a migraine before you locate what you're looking for through visual inspection.",
+      "intent": "Find pet/animal photos",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-cc3f1dda",
+      "text": "how do I delete all my duplicate and triplicate photos",
+      "intent": "Find pet/animal photos",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-4c3e8113",
+      "text": "2026 Edit: The search feature has turned to trash. Stop making your apps worse. Google Photos, Google Maps—both were way better, now I'm leaving for competitors.…………………………………….….……… 2023 Edit: Latest update ruined the editing options.",
+      "intent": "Find pet/animal photos",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-54d2f4e1",
+      "text": "Abysmal. Deliberately difficult to assign uploads to one Google account, so you're constantly having to delete stuff, very difficult to delete things, no AI assistance to delete duplicates etc. Takes 5 minutes to download one photo. Absolutely the worst.",
+      "intent": "Find pet/animal photos",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-bf2a0032",
+      "text": "Add features like duplicate photos and videos for deleting, And other good features.",
+      "intent": "Find pet/animal photos",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-563a7114",
+      "text": "really wish they had an option to remove duplicate photos.",
+      "intent": "Find pet/animal photos",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-15a1197c",
+      "text": "Search used to be effortless, but the latest updates ruined it. It can't locate anything anymore even obvious photos that I know are right there in my library. Frustrating to see a core feature stop working properly. peak enshittification",
+      "intent": "Find pet/animal photos",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-8a231ecc",
+      "text": "I love it, but please add a direct button to merge face groups. The AI constantly creates multiple albums for the same person due to age or angles. While I know they can theoretically be combined by renaming the group to trigger a suggestion or reassigning photos, it's very unintuitive and frequently fails, leaving duplicated profiles with the exact same name.",
+      "intent": "Find pet/animal photos",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-c0e903d1",
+      "text": "It's a pain in the neck to find the photos that I need. They are not organized by category as you claim this version would do. I now I have to pay every month? What's up with that? I have so many pictures & now I have to move them somewhere else. followed the steps and still can't find what I need.",
+      "intent": "Find pet/animal photos",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-34322afb",
+      "text": "i get most photos duplicated, probably related to sync. some photos temporarily disappear. and I'm on pixel, even Google-Google doesn't work. also when i try to edit already edited photo i can choose from cancel and edit original. why can't i continue editing where i left off. when i use perspective crop on ultra hdr picture, the units hdr gain map is shifted. so many bugs this app, and not small ones.",
+      "intent": "Find pet/animal photos",
+      "source": "Play Store"
+    }
+  ],
+  "Search Query Visual Clutter (Irrelevant Memes & Noise)": [
+    {
+      "id": "gplay-b69b4609",
+      "text": "we should be able to choose which folders to backup or not within DCIM. I don't need you to backup my Snapchat and screenshots folders, but I can't turn off backup for these..",
+      "intent": "Find specific screenshot or downloaded image",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-57f7b690",
+      "text": "I have issues uploading pics to an app, if I edit the image at all (for example, I'll take a pic and my phone likes to rotate it the wrong way) I'll rotate the image upright, but if I do that, it wont upload to the app I use for work. My workaround has been to screenshot that image, then for whatever reason, it doesn't care that I edit THAT image. I can crop, mark-up, etc and it'll upload at that point. App is Service Titan (Field).",
+      "intent": "Find specific person / family member",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-a858e6df",
+      "text": "doesn't open. get an error message you enable all permissions still wouldn't open for me to access the photos/screenshots..",
+      "intent": "Find specific screenshot or downloaded image",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-a55aba94",
+      "text": "photos disappear after editing them. there's no way to attach them to any message or chat unless you take a new screenshot or save it as a new copy. looks like this has been an issue for a long time and Google is ignoring it.",
+      "intent": "Find specific screenshot or downloaded image",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-8a3e30b0",
+      "text": "I have used Google Photo to store a screenshot of every one of my 142k Tweets ! Proof of the pudding is IN the READING. !",
+      "intent": "Find specific screenshot or downloaded image",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-1e0c1b42",
+      "text": "Completely messed up the search function. It used to be really simple to search, now there's about 3 more unnecessary steps added for no upside as far as I can see. Please reinstate the old UI.",
+      "intent": "Find document / receipt / proof",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-7ee08a6f",
+      "text": "Recently I'm taking a screenshot that's coming in black colour",
+      "intent": "Find specific screenshot or downloaded image",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-f8aef89a",
+      "text": "Taking screenshots is far too critical. Too many things inadvertently obstructing the path for what should be an ez and seamless detail.",
+      "intent": "Find specific screenshot or downloaded image",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-da630e03",
+      "text": "Please include the option to save a screenshot after cropping as the original instead of Save as copy, that way I don't have to delete the full screen version of the screenshot captured by default",
+      "intent": "Find specific screenshot or downloaded image",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-1f13696d",
+      "text": "This app is awesome for me, but there's this one glitch and I'm wondering if you know what's going on. I try and view one screenshot and it sends me back to the menu and I'm confused about it, could someone maybe tell me what's happening?",
+      "intent": "Find specific screenshot or downloaded image",
+      "source": "Play Store"
+    }
+  ],
+  "Document, Receipt & Text (OCR) Inaccuracies": [
+    {
+      "id": "gplay-a22a2f33",
+      "text": "I DON'T CARE FOR GOOGS TAKING OVER HOW I TAKE, STORE OR LAY OUT MY VISUAL MEDIA! IM OVER 13 FOR GOOGLE'S HYPOCRITICAL CHILD PROTOCOLS TO KICK IN. YET GOOG ARBITRARILY TAKES ACTION, LIKE WITH PHOTO MEDIA THAT IS NOT REQUESTED, HELPFUL NOR IN THE SLIGHTEST NEEDED. I MINE MY INNER CREATIVITY. IF I WANT A.I. AID, I ASK. YET, INVARIABLY IF I ASK FOR A TIGHT SKIRT, STOCKINGS OR HEELS ON A REMIX OF MY DECEASED WIFE, I'M TOLD NO & TREATED LIKE A 12 YR OLD!! EVERYDAY, GOOG MAKES NEW CLAIMS ON MY FREEDOM!",
+      "intent": "Find specific person / family member",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-2395b279",
+      "text": "Best app ever! 5 years now, and all my pictures, videos, and documents are still very safe.",
+      "intent": "Find document / receipt / proof",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-1f28030f",
+      "text": "mediocre features and an app that lags the changes being made and freezes all the time. wow what an incredible value. 0 if I could",
+      "intent": "Find specific visual memory",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-58738833",
+      "text": "i love google photos app i never loosed my documents",
+      "intent": "Find document / receipt / proof",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-46e8f25b",
+      "text": "Can we stop adding unnecessary features no one asked for??? I just noticed there are \"Automatic albums\" where it also allows you to archive photos after 30 days, while it may be useful in some aspects, it's completely useless. The automatic sorting isn't even correct 90% of the time. I DON'T WANT my photos to be sorted like that in unnecessary albums named \"Documents\". If you really want to keep this feature, at least make it so we can choose to have it or not!!",
+      "intent": "Find document / receipt / proof",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-a335d368",
+      "text": "we are motorola users..so we are forced to use it. but in this day and age...if you value your privacy of your photos and videos.. it's better to use your own device gallery. absolutely 0 privacy..heck can't even use app lock on this dumb thing. if your phone gets stolen and is somehow unlocked all your photos documents etc .will become public. hope, #Google can introduce app lock for photos.",
+      "intent": "Find document / receipt / proof",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-6f5ad273",
+      "text": "best app to save your photo and documents.",
+      "intent": "Find document / receipt / proof",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-3a078289",
+      "text": "we didn't like the recent update in crop which you have done you have done the curve angle in the crop which is not so appropriate we like the previous one that was 90° it was much better and you can also add which ever section we just want to move we can move if your moving the right side it is creating a square we don't want any square or anything we just want free crop option and you can refer Drive they have direct crop option you can also add that which is much easy to crop any document.",
+      "intent": "Find document / receipt / proof",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-8e06eb60",
+      "text": "google photos apps the really surprised a website for like photo video stored every important documents savely protract and save our avery part of memory the website system jast wow i never explain avery body haw like great apps is the Google photos website system i jast tell the Google photos website system company said (i really happy use this website system i am happy ) i wish for this company said the website system more popular mor used the world",
+      "intent": "Find document / receipt / proof",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-3eb8e545",
+      "text": "there is so many features which annoy me yet i cant turn them off. auto album is one of them. it takes photos what kind of resemble something and stuff them into a folder. which is inside some group full of useless automatic folders. intook a photo of an important paper of mine, and the app stuffed it into \"Receipt\" folder. its not even a receipt nor does it look like a bill. why is it in receipt folder.",
+      "intent": "Find document / receipt / proof",
+      "source": "Play Store"
+    }
+  ],
+  "Vague Memory & Natural Language Breakdown": [
+    {
+      "id": "gplay-3aa1eb25",
+      "text": "The image search feature has actually gotten worse.",
+      "intent": "Find specific visual memory",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-dbff0c4e",
+      "text": "Search is absolutely worthless.",
+      "intent": "Find specific visual memory",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-70ec29fb",
+      "text": "I can't label my face or search for it",
+      "intent": "Find specific person / family member",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-48f3f1db",
+      "text": "even after backed up photos there are no chance to found same face person after search the name of person🥴😑",
+      "intent": "Find specific person / family member",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-1890aae5",
+      "text": "Search function doesn't work without back up. I want to use the functions of my phone not some cloud service.",
+      "intent": "Find specific visual memory",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-238fe40e",
+      "text": "amazing .. 😍 .....it is easy to use and search photo",
+      "intent": "Find specific visual memory",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-a6f96f31",
+      "text": "AI on this is the dumbest, sorry. I need an option to search for photos without the use of Artificial Insanity please.",
+      "intent": "Find specific visual memory",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-ee425756",
+      "text": "Google pass search picture Google photo",
+      "intent": "Find specific visual memory",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-0f6ecac4",
+      "text": "Love this app. The UI is beautiful. I do wish we could use hash tags to make searching faster.",
+      "intent": "Find specific visual memory",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-b30c1ed9",
+      "text": "Was 5☆ rating till Feb/Mar 2023 when Google Photos changed for worse then got better, then again 2026-09-06 UK Google Photos App stopped offering in Twitter/@X add/upload from Google Photos pic but only a pic from unsearchable Samsung Galley impossible to do when 50,000+pics!!!",
+      "intent": "Find photos from specific time/year",
+      "source": "Play Store"
+    }
+  ],
+  "Video Content & In-Video Action Search": [
+    {
+      "id": "gplay-112a94a1",
+      "text": "i had no issues with this app until recently, this week to be precise, my entire WhatsApp images and WhatsApp videos files have disappeared. I searched the entire app there is no site of WhatsApp images and WhatsApp videos. how can I get them back",
+      "intent": "Find document / receipt / proof",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-a0e20a83",
+      "text": "Google Photos is a very useful and easy-to-use app for storing, organizing and viewing photos and videos. The backup feature is really helpful, and the search and editing tools make managing photos much easier. Overall, a great app for keeping memories safe. ⭐⭐⭐⭐⭐",
+      "intent": "Find document / receipt / proof",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-a9b1c76b",
+      "text": "\"Google Photos needs to add a proper selective backup feature. Currently, it backs up everything automatically, including downloaded images, screenshots, and videos, without allowing users to choose only camera photos or exclude videos. Please give us separate toggles to control photo and video backups, as well as the ability to choose specific device folders.\"",
+      "intent": "Find document / receipt / proof",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-b34f4b73",
+      "text": "now what the heck happened again I left a review saying how the edit button was missing on the videos, 2 Days later the edit button was back on and I edited my post and give you guys a core stars and now all of a sudden I go on my phone today and the edit buttons gone again for the videos 🙄😠 what is going on end I can't even show you a screenshot of what I'm talking about",
+      "intent": "Find document / receipt / proof",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-3f322948",
+      "text": "We are introducing a new storage management tool to help you easily manage the photos that count toward your storage quota. This tool will surface photos or videos you might want to delete — like blurry photos, screenshots and large videos.",
+      "intent": "Find specific person / family member",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-33720214",
+      "text": "Google Photos is an excellent app for storing, organizing, and backing up photos and videos. The search and automatic organization features are very useful, and it makes finding old memories easy. Overall, a simple, reliable, and user-friendly photo storage app. Highly recommended! 📸✨",
+      "intent": "Find specific person / family member",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-4fde304f",
+      "text": "it's good but the fact that it doesn't show you everything Immediately makes me mad bc I keep having to go to collections to find my screenshots and screen recordings overall pretty good",
+      "intent": "Find specific screenshot or downloaded image",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-6dc0101f",
+      "text": "my chat historys photo and video can't find.",
+      "intent": "Find document / receipt / proof",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-6b23582e",
+      "text": "and organize your photos. Google Photos is the home for all your photos and videos. Easily store, edit, organize, and search your memories with the help of Google AI.",
+      "intent": "Find document / receipt / proof",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-6695f878",
+      "text": "Google Photos is an excellent app for storing, organizing, and managing photos and videos. The automatic backup, powerful search, easy sharing, editing tools, and smart organization features make it extremely convenient. I especially like how easy it is to find old memories and access them across devices. Overall, a must-have app for managing photos and videos.",
+      "intent": "Find document / receipt / proof",
+      "source": "Play Store"
+    }
+  ],
+  "Search Retrieval Failure (Zero Results Found)": [
+    {
+      "id": "gplay-ff99bb4e",
+      "text": "Incredibly stupid how it can't find photos from my gallery",
+      "intent": "Find document / receipt / proof",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-90d6b949",
+      "text": "terrible, totally user unfriendly and useless. l can't find what l need, it keeps pictures l don't want anymore, can't even disable it's permissions.",
+      "intent": "Find specific person / family member",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-e636b753",
+      "text": "I can't find any of my photos that they took off of my gallery. I hate Google photos. this app takes my well organized photos off of my phone and organizes them in a way that I can't find anything. I don't want their storage. I am afraid to uninstall cus it may delete all of my photos. if I do get them back i will never be able to organize them the way I had them. oh! this makes me so mad. wish i could take googles photos, and scramble them up. HEY GOOGLE! Give me my photos back!",
+      "intent": "Find document / receipt / proof",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-24547638",
+      "text": "I don't like how the app constantly rearrange photos, making them very difficult to find. I also don't appreciate the app creating slide shows on its own. For example, the app took pictures of my mom not along after she passed. She was very ill and the pictures were her at her worst. I was shocked the app used the pictures and, without my permission, put together a slide show. It was painful to see. Perhaps there is a way to shut off this feature, but I can't find it. Not a fan of this app",
+      "intent": "Find specific person / family member",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-9bc82e76",
+      "text": "It's terrible, it backs the pics up before I get a chance to edit them, then I can't find then again to save my storage space. Worst app ever, shame on you google. Thanks for the advice on how to use the product correctly . I still have trouble, I just don't whinge about it so openly, anymore.",
+      "intent": "Find specific visual memory",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-d275c529",
+      "text": "I can't find the photos that I need.",
+      "intent": "Find specific visual memory",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-95806d6b",
+      "text": "I can't find my oldest photo",
+      "intent": "Find photos from specific time/year",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-fa23c52e",
+      "text": "I don't know what's going on lately with Google photos I can't find anything everything is not where it used to be you keep adding folders you remove folders there's too many folders can we do something about showing people how to simplify it I don't need 30 folders",
+      "intent": "Locate photos in album / folder",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-96437183",
+      "text": "can't find anything remotely useful",
+      "intent": "Find specific visual memory",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-fd2d9ac1",
+      "text": "ai ruined the app. can't look at a photo without some ai putting an outline around the people in the photos. can't find a way to disable it. I'm definitely not giving it permission to use facial recognition.",
+      "intent": "Find specific visual memory",
+      "source": "Play Store"
+    }
+  ],
+  "Missing Location & Geotag Failures": [
+    {
+      "id": "gplay-626eed00",
+      "text": "I still wish map search was available on the desktop as well as the app. other than that, I'm happy",
+      "intent": "Find specific visual memory",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-2a5f2a76",
+      "text": "Full of random bloat \"features\" with no way to turn them off. I don't want \"moments\" or \"places\" or \"create\" or my photos to be auto sorted or downloaded onto someone else's computer, but it either forces those things or won't stop asking for permission to do those things. Genuinely insufferable.",
+      "intent": "Find specific person / family member",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-7b6741eb",
+      "text": "Photos used to be the perfect photos app. it had the best search funding of any app. I used to race iphone users to see how far we could find the same photo and I always won. Now this near perfect search function has been replaced by AI, which not only doesn't return the photos I'm looking for, it actually acts as a stumbling block to me finding them. It's slow and inefficient. Another perfectly good tool ruined in the name of trying to convince us that AI is inevitable.",
+      "intent": "Find specific visual memory",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-3e2f7b95",
+      "text": "the app is actually good. you can do a lot of things to edit photos or videos, the search bar and the app automatically selects photos of different people and store in one place. my problem is the need for data/wifi connection to access/view the photos and videos, also the very small storage is very annoying to deal with I cant upload my stuff and most of my files can't be deleted. pls it add at least 5 more GB of free storage but overall the app is great",
+      "intent": "Find document / receipt / proof",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-6d152c5b",
+      "text": "WHY CAN'T WE SEE ALL THE PICTURES AND SCREENSHOTS IN ONE PLACE!!!!! why separate everything... I even forget I have some screenshots",
+      "intent": "Find specific screenshot or downloaded image",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-8772417c",
+      "text": "Their photo-to-video filter is excessively strict. My wife and I tried a photo of us together and it was blocked. Yes we were fully clothed. We disabled Google photos and currently looking for a replacement. Being our photos our private, there shouldn't be a filter. I will not support an app that hits you with restrictions for your own private photos. If they fix this issue, we'll come back.",
+      "intent": "Find specific person / family member",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-208d4c16",
+      "text": "Google Photos is an excellent app for storing, organizing, and managing photos and videos. Its automatic backup, powerful search, easy sharing, and editing tools make managing memories simple and convenient. I especially like how quickly it can find photos by people, places, or objects. The clean interface and smooth synchronization across devices make it a reliable choice. Overall, a must-have app for keeping your precious memories safe and organized.",
+      "intent": "Find specific person / family member",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-498b9fd3",
+      "text": "The app also has a tools/quick-tools menu that puts features such as image creation and web search in one place instead of filling the message area with lots of separate buttons.",
+      "intent": "Find specific visual memory",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-b900cf34",
+      "text": "absolutely horrible it's storing photos all over the place and I can't find them. Samsung gallery is way better",
+      "intent": "Find specific visual memory",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-49b8f213",
+      "text": "They removed the ability to see photo information. it used to be if you clicked the \"about\" button it would tell you the format of the photo for example. now it's been replaced with an AI slop search bar. I don't need AI to look at my damn photo I need to know if it's a JPEG or PNG. Just another thing in the long list of AI slop features that no one asked for to make your user experience \"better\" you're welcome!",
+      "intent": "Find specific visual memory",
+      "source": "Play Store"
+    }
+  ],
+  "Offline / Flight Mode Search Inaccessibility": [
+    {
+      "id": "gplay-5984ece4",
+      "text": "id rather save my stuff to a micro SD card so i can access it without internet at anytime..but for a cloud thing theres a few things you cant do like you would be able to do on a micro. i dont like the fact that you cant make and put pictures in folders after arkiving. that really sucks. and the buy prints well the quality was really bad. and my camera is 13 mp...the prints was blurry and original was a quality pict. i can print my own way cheaper. and clearer. and its really hard to find photos",
+      "intent": "Find document / receipt / proof",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-c9c1955f",
+      "text": "Poor implementation. Many search terms do not return any results. No support for offline search. Syncing across devices is painful",
+      "intent": "Find specific visual memory",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-fc615ace",
+      "text": "There is a bug in the Creations Module, I've edited a highlight which is getting processed from yesterday (it's stuck). My wifi and internet connection is stable. I wanted to attach the screenshot but can't see any option for that.",
+      "intent": "Find specific screenshot or downloaded image",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-0e6ca5ba",
+      "text": "A very great app but I personally feel that you should include a feature that enables users to search songs from the Internet directly, like that of Snapchat",
+      "intent": "Find specific person / family member",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-8c0217b3",
+      "text": "I have been having so many levels of different interactions with this virus that I oi was in a hurry from the agrovation I was searching for and rushed through the internet and it's broken like me with the results of deleting the photos and some of them was deleted from the phone and it's upsetting because",
+      "intent": "Find specific visual memory",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-44d8f596",
+      "text": "doesn't have an offline 'sort by face'. I dont want to upload 100 GBs of photos just to get them sorted",
+      "intent": "Find specific person / family member",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-2d1d2e95",
+      "text": "fails to notice I'm already on wifi and refuses to back up. i already checked settings. data is allowed. app still refuses to see im using wifi . I have unlimited data. the alert always says waiting for wifi. I would take a screenshot and show wifi icon and 5g+ unlimited data. already checked settings.",
+      "intent": "Find specific screenshot or downloaded image",
+      "source": "Play Store"
+    },
+    {
+      "id": "gplay-76ef0b85",
+      "text": "I miss the feature as follows: when I search out photos, let's say \"blue jeans\" I can't go to the specific day on which that photo was taken nor download selected photos onto my phone the pictures to have an offline access to add them to apps which don't show up in the Share options.",
+      "intent": "Find specific screenshot or downloaded image",
+      "source": "Play Store"
+    },
+    {
+      "id": "appstore-13383003719",
+      "text": "High data costs: App eats your data even with the in-app settings set to wifi-only backups. The setting does not work and the app will eat your data.",
+      "intent": "Find specific visual memory",
+      "source": "App Store"
+    },
+    {
+      "id": "appstore-12118082638",
+      "text": "Es mala: Es una desgracia como permite que nuestra foto se almacene en la nube cuando no hay internet o hay momentos que estás de viaje y no puedes usar tus fotos porque tienes que descargar qué decepción",
+      "intent": "Find specific person / family member",
+      "source": "App Store"
+    }
+  ],
+  "Duplicate & Burst Photo Flooding": [
+    {
+      "id": "gplay-055e6bb7",
+      "text": "It's very impressive app, never seen before with ton of features specially I love it's creation, searching by face, gathering the same photos, but the one which needs improvement is that it can't separate/ identify/ twins, AI involvement is needed",
+      "intent": "Find specific person / family member",
+      "source": "Play Store"
+    },
+    {
+      "id": "appstore-14430319328",
+      "text": "Great way to lose your photos: This app is dangerous. If you delete a photo from your device, it automatically deletes the same photo from Google Photos. So you cannot reduce space on your device and keep those photos on Google Photos. Thank goodness, I tested it. Otherwise, I could have lost all of my photos.",
+      "intent": "Find specific visual memory",
+      "source": "App Store"
+    }
+  ]
+}
