@@ -16,7 +16,6 @@
 - **Google Play Store:** 3,018 analyzed reviews (65.4% of core) from 168,989 raw. Covers Android versions across English-speaking regions (US, UK, CA, AU, IN).
 - **Apple App Store:** 1,546 analyzed reviews (33.5% of core) from 5,000 raw. Scraped via official customer review RSS/JSON feeds.
 - **Google Photos Help Community:** 51 deep thread discussions (1.1% of core) containing detailed user workarounds and bug reproductions.
-- **YouTube Comments:** 17,400 raw comments collected across 25 search queries; excluded from final core due to high noise-to-signal ratio and informal banter.
 - **Temporal Window:** Prioritizes the last 24 months (2024–2026), capturing the rollout of Ask Photos and Gemini AI features.
 
 ---

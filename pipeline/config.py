@@ -25,7 +25,6 @@ SEED_PHRASES = [
     "google photos ask photos", "google photos search not working",
 ]
 
-YOUTUBE_DAILY_BUDGET = 9000  # units
 DATE_WINDOW_MONTHS = 6
 
 # Create directories if they don't exist

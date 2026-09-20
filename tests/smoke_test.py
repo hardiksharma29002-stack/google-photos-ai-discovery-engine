@@ -3,16 +3,6 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-def test_youtube():
-    try:
-        from googleapiclient.discovery import build
-        api_key = os.getenv("YOUTUBE_API_KEY")
-        youtube = build("youtube", "v3", developerKey=api_key)
-        request = youtube.search().list(part="snippet", q="google photos", maxResults=1)
-        response = request.execute()
-        print("[SUCCESS] YouTube API: OK (Successfully connected and ran a search)")
-    except Exception as e:
-        print(f"[FAIL] YouTube API Error: {e}")
 
 def test_gemini():
     try:
@@ -41,7 +31,6 @@ def test_groq():
 if __name__ == "__main__":
     print("Running Phase 0 Smoke Tests...")
     print("-" * 30)
-    test_youtube()
     test_gemini()
     test_groq()
     print("-" * 30)

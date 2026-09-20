@@ -23,13 +23,6 @@ def main():
     except Exception as e:
         logger.error(f"Apple App Store Collector failed: {e}")
         
-    # 3. YouTube
-    try:
-        from pipeline.collectors.youtube import collect_youtube_comments
-        logger.info("Running YouTube Collector...")
-        collect_youtube_comments()
-    except Exception as e:
-        logger.error(f"YouTube Collector failed: {e}")
         
     # 4. Help Community
     try:

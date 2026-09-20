@@ -360,7 +360,7 @@ export default function DashboardPage() {
             </h4>
             <ul className="text-xs text-gray-700 space-y-1.5 list-disc pl-4">
               <li>
-                <strong>174,040 Raw Pool:</strong> All collected public feedback from Google Play Store, Apple App Store, and Google Photos Community (0 from YouTube).
+                <strong>174,040 Raw Pool:</strong> Comprehensive public user feedback mined from Google Play Store, Apple App Store, and Google Photos Help Community.
               </li>
               <li>
                 <strong>Prefilter Step:</strong> Regex scan for 35 photo retrieval seed phrases (e.g., <em>"can't find"</em>, <em>"search by date"</em>, <em>"face grouping"</em>, <em>"Ask Photos"</em>).

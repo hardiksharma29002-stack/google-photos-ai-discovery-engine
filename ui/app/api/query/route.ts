@@ -59,7 +59,7 @@ export async function POST(req: Request) {
     }
 
     const contextData = `
-VERIFIED DATASET CONTEXT (4,615 public user reviews analyzed from Google Play Store, Apple App Store, and Google Photos Community; 0 from YouTube):
+VERIFIED DATASET CONTEXT (4,615 public user reviews analyzed from Google Play Store, Apple App Store, and Google Photos Help Community):
 
 OVERALL METRICS:
 • Total analyzed reviews: 4,615
@@ -132,7 +132,7 @@ QUALITY AUDIT & MODEL AGREEMENT NUMBERS:
 `;
 
     const systemPrompt = `You are the Google Photos AI Discovery Engine assistant.
-You analyze 4,615 verified user reviews from Google Play Store, Apple App Store, and Google Photos Community (0 from YouTube).
+You analyze 4,615 verified user reviews from Google Play Store, Apple App Store, and Google Photos Help Community.
 
 CRITICAL VOCABULARY & RULES:
 1. NEVER use the word "items". Always use "reviews", "users", or "cases" (e.g., "(1,197 reviews, 25.9%)").

@@ -13,8 +13,7 @@ flowchart TD
     subgraph Data_Sources["1. Multi-Source Raw Data Collection"]
         GP["Google Play Store: 168,000+ Reviews"]
         AS["Apple App Store: 5,000+ Reviews"]
-        HC["Google Photos Help Community: 51 Discussions"]
-        YT["YouTube Feedback & Comments: Monitored"]
+        HC["Google Photos Help Community: 51 In-Depth Discussions"]
     end
 
     subgraph Phase_2["2. Cleaning, Normalization & Filtering"]
@@ -55,7 +54,6 @@ flowchart TD
     GP --> RAW
     AS --> RAW
     HC --> RAW
-    YT --> RAW
 
     RAW --> LANG --> DEDUP --> PREFILTER --> CANDIDATES
     CANDIDATES --> LLM_CALL --> SCHEMA --> SUBSTRING --> PII --> CORE
@@ -85,7 +83,6 @@ flowchart TD
   - **Google Play Store:** 3,018 core verified reviews (65.4% of high-signal corpus) mined across US, UK, IN, CA, and AU.
   - **Apple App Store:** 1,546 core verified reviews (33.5% of high-signal corpus).
   - **Google Photos Help Community:** 51 in-depth support threads (1.1% of corpus) providing long-form failure context.
-  - **YouTube:** Monitored comment feeds for feature releases (Ask Photos, timeline overhauls).
 - **Format Normalization:** Standardizes schemas across timestamps, user rating (1–5 stars), platform OS version, and thread responses.
 
 ### 2. High-Recall Prefiltering & Deduplication
