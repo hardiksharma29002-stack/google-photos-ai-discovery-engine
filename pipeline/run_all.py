@@ -23,6 +23,16 @@ def main():
     except Exception as e:
         logger.error(f"Apple App Store Collector failed: {e}")
         
+    # 3. Reddit (via Apify)
+    if os.getenv("APIFY_API_TOKEN"):
+        try:
+            from pipeline.collectors.reddit_apify import collect_reddit_apify
+            logger.info("Running Apify Reddit Collector...")
+            collect_reddit_apify()
+        except Exception as e:
+            logger.error(f"Apify Reddit Collector failed: {e}")
+    else:
+        logger.info("Skipping Reddit collection: APIFY_API_TOKEN not set in environment.")
         
     # 4. Help Community
     try:

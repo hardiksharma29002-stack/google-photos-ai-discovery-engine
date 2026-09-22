@@ -13,7 +13,7 @@
 
 ```mermaid
 graph TD
-    A[Public Data Sources<br/>Google Play 168k | App Store 5k | Community 51] --> B[Phase 1 & 2: Cleaning & Regex Prefilter<br/>35+ Retrieval Seed Keywords]
+    A[Public Data Sources<br/>Google Play 168k | App Store 5k | Community 51 | Reddit via Apify] --> B[Phase 1 & 2: Cleaning & Regex Prefilter<br/>35+ Retrieval Seed Keywords]
     B --> C[35,210 Candidate Pool]
     C --> D[Phase 3: Schema Extraction & Code Verification<br/>Gemini 2.5 Flash + Exact Substring Match]
     D --> E[4,615 High-Signal Core Cases<br/>Photo Types | Clues Remembered vs Forgotten | Failure Stages]
